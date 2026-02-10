@@ -5,6 +5,7 @@ w2i, c+h is okay, idc about copy or inspo.
 read links for more info
 
 [rentry](https://rentry.org/arghsenic)  
+[strawpage](https://coolstrawpage24.straw.page)  
 [atabook](https://arghsenic.atabook.org)  
 [pronouns.cc](https://pronouns.cc/@arghsenic)  
 
