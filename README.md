@@ -4,7 +4,7 @@ i can't get my username back because github is fucked so um. i'm arghsenic now. 
 w2i, c+h is okay, idc about copy or inspo.  
 read links for more info
 
-[rentry](https://rentry.org/arghsenic)  
+[rentry](https://rentry.org/cotardssyndrome)  
 [strawpage](https://coolstrawpage24.straw.page)  
 [atabook](https://arghsenic.atabook.org)  
 [pronouns.cc](https://pronouns.cc/@arghsenic)  
