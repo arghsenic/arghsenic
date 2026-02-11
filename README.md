@@ -1,4 +1,4 @@
-hi i used to be github user sickindividual but i lost my mind briefly and wiped like 60% of my presence off the internet
+hi i used to be github user sickindividual but i lost my mind briefly and wiped like 60% of my presence off the internet  
 i can't get my username back because github is fucked so um. i'm arghsenic now. like [arsenic](https://en.wikipedia.org/wiki/Arsenic_poisoning) the poison. isn't that so cool.
 
 w2i, c+h is okay, idc about copy or inspo.  
