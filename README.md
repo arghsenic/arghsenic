@@ -3,9 +3,9 @@
 
 > i'm often active when playing, you're free to come up and talk to me. whispering is also okay if you're shy  
 
-> i don't play on weekends or holidays much, because that's when everyone gets online and it lags my laptop out like crazy
+> i don't play on weekends or holidays much, because that's when everyone gets online and it lags me out like crazy
 
-> i don't care for tt/td, copying, or inspiration. do whatever you want
+> i don't care for tt/td, copying, or inspiration. do whatever you want, we're on a pixel mlp game
 
 > my natural habitat is docks/upper docks on safe server 1
 
