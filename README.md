@@ -10,7 +10,9 @@
 > my natural habitat is docks/upper docks on safe server 1
 
 # $\color{grey}{\textsf{links}}$
-> [rentry](https://rentry.org/cotardssyndrome)
+> [rentry (for information)](https://rentry.org/cotardssyndrome)
+
+> [strawpage (art only)](https://coolstrawpage24.straw.page)
 
 > [atabook](https://arghsenic.atabook.org)  
 
