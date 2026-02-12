@@ -1,8 +1,10 @@
-hi i used to be github user sickindividual but i lost my mind briefly and wiped like 60% of my presence off the internet  
-i can't get my username back because github is fucked so um. i'm arghsenic now. like [arsenic](https://en.wikipedia.org/wiki/Arsenic_poisoning) the poison. isn't that so cool.
+# pony town information
+- i used to be github user @sickindividual, but i lost my mind briefly and impulsively deleted half of my socials. i'm back and i am sane again.
+- i'm often active when playing, you're free to come up and talk to me. whispering is also okay if you're shy.
+- i don't play on weekends much because that's when everyone gets online and it lags my laptop out like crazy.
+- i don't care for tt/td, copying, or inspiration. do whatever you want.
+- my natural habitat is docks/upper docks on safe server 1.
 
-w2i, c+h is okay, idc about copy or inspo.  
-read links for more info
 
 [rentry](https://rentry.org/cotardssyndrome)  
 [atabook](https://arghsenic.atabook.org)  
