@@ -7,7 +7,7 @@
 
 > i don't care for tt/td, copying, or inspiration. do whatever you want.
 
-> my natural habitat is docks/upper docks on safe server 1.  
+> my natural habitat is docks/upper docks on safe server 1.
 
 # $\color{grey}{\textsf{links}}$
 > [rentry](https://rentry.org/cotardssyndrome)
