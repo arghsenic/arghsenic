@@ -1,5 +1,5 @@
 # $\color{grey}{\textsf{ponytown information}}$
-> i used to be github user @sickindividual, but i lost my mind briefly and impulsively deleted half of my socials. i'm back and i am sane again. i can be trusted with. weapons. smiling emoji
+> i used to be github user @sickindividual, but i lost my mind briefly and impulsively deleted half of my socials. woopsie daisy! i'm back and i am sane again. i can be trusted with. weapons. smiling emoji
 
 > i'm often active when playing, you're free to come up and talk to me. whispering is also okay if you're shy  
 
