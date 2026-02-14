@@ -3,7 +3,11 @@ previously @sickindividual
 </p>
 
 <p align="center">
-links are a work in progress
+<a href="https://rentry.org/cotardssyndrome">rentry</a>
+</p>
+
+<p align="center">
+<a href="https://arghsenic.atabook.org">atabook</a>
 </p>
 
 <p align="center">
