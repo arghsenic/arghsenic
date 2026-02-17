@@ -1,8 +1,4 @@
 <p align="center">
-previously @sickindividual  
-</p>
-
-<p align="center">
 <a href="https://rentry.org/cotardssyndrome">rentry</a>
 </p>
 
