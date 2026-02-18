@@ -1,9 +1,5 @@
 <p align="center">
-<a href="https://rentry.org/cotardssyndrome">rentry</a>
-</p>
-
-<p align="center">
-<a href="https://arghsenic.atabook.org">atabook</a>
+<a href="https://guns.lol/arghsenic">guns.lol</a>
 </p>
 
 <p align="center">
