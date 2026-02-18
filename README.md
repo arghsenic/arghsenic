@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-<a href="https://pronouns.cc/@paracetamol">pronouns cc</a>
-</p>
-
-<p align="center">
 <a href="https://arghsenic.atabook.org">atabook</a>
 </p>
 
