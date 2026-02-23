@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-my music isn't great
+my music taste isn't great
 </p>
 
 <p align="center">
