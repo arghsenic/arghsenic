@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-my music taste sucks
+my music isn't great
 </p>
 
 <p align="center">
@@ -19,4 +19,6 @@ my music taste sucks
     <img width="150" src="https://files.catbox.moe/sxpjte.gif" >
     <img width="150" src="https://files.catbox.moe/72ut71.gif" >
     <img width="150" src="https://files.catbox.moe/zg0nci.gif" >
+    <img width="150" src="https://files.catbox.moe/7a8u4n.gif" >
+    <img width="150" src="https://files.catbox.moe/30f0hp.gif" >
 </p>
