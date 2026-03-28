@@ -2,7 +2,7 @@
     <img width="400" src="https://files.catbox.moe/iiowfq.jpeg">
 </p>
 <p align="center">
-    <img width="500" src="https://files.catbox.moe/ie1e3s.gif">
+    <img width="400" src="https://files.catbox.moe/966h3z.png">
 </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
