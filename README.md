@@ -1,11 +1,11 @@
 <p align="center">
     <img width="400" src="https://files.catbox.moe/iiowfq.jpeg">
-</p>
-<p align="center">
-    <img width="400" src="https://files.catbox.moe/966h3z.png">
-</p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=801ECE&bar_color_cover=false">
   </a>
+</p>
+</p>
+<p align="center">
+    <img width="400" src="https://files.catbox.moe/966h3z.png">
 </p>
