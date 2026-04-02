@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=b51a00&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=a02230&bar_color_cover=false">
   </a>
 <img width="100" src="https://i.postimg.cc/x8r8GHpx/c88a1f842b5ff1264a0877fd0ae6fcc6fc4735f3.png"
 </p>
@@ -17,5 +17,5 @@
 
 </p>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=arghsenic&style=flat&label=views&color=red">
+    <img src="https://komarev.com/ghpvc/?username=arghsenic&style=flat&label=views&color=a02230">
 </p>
