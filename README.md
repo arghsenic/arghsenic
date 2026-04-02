@@ -17,5 +17,5 @@
 
 </p>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=arghsenic&style=flat&label=whatever+you+do+at+the+crossroads,+keep+going+forward.&color=a02230">
+    <img src="https://komarev.com/ghpvc/?username=arghsenic&style=flat&label=Whatever+you+do+at+the+crossroads.+Keep+going+forward.&color=a02230">
 </p>
