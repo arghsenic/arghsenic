@@ -1,21 +1,21 @@
 </p>
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/qRN6xpJp/92c797d7e76d848d1d93b4e212e60bfe4760e837.png">
+    <img width="500" src="https://i.postimg.cc/0y1D547D/be8853f0c468f3c538233387ae8013b402737e64.png">
 </p>
 
 <p align="center">
+<img width="150" src="https://i.postimg.cc/dVC64d9q/df7cd019c2b5e18ad1c285a710557912b326ce56.png"
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=a02230&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=9cba46&bar_color_cover=false">
   </a>
-<img width="100" src="https://i.postimg.cc/x8r8GHpx/c88a1f842b5ff1264a0877fd0ae6fcc6fc4735f3.png"
 </p>
+</p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=arghsenic&style=flat&label=lovely+viewers&color=744e29">
+</p>
+
 
 </p>
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/qRN6xpJp/92c797d7e76d848d1d93b4e212e60bfe4760e837.png">
-</p>
-
-</p>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=arghsenic&style=flat&label=Whatever+you+do+at+the+crossroads.+Keep+going+forward.&color=a02230">
+    <img width="500" src="https://i.postimg.cc/0y1D547D/be8853f0c468f3c538233387ae8013b402737e64.png">
 </p>
