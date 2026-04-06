@@ -21,5 +21,5 @@
 </p>
 
 <p align="center">
-uu & mcyt fans in general IWC!!!!!!! Ok thank you
+uu & mcyt fans in general ARE ON THIN ICE!!!!!!! Ok. thank you.
 </p>
