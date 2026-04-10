@@ -1,2 +1,3 @@
-<img src="https://files.catbox.moe/195rh2.webp" 
-     width="400" />
+<p align="center">
+    <img width="300" src="https://files.catbox.moe/n69roo.webp">
+</p>
