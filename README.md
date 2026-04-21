@@ -7,3 +7,9 @@
 <p align="left">
     <img width="300" src="https://i.postimg.cc/T3T7fqj8/Billede-8.jpg">
 </p>
+
+## ponytown info Hi
+- w2i i do not see messages ever i be doing anything else
+- i don't careeeeee about tt/td or copying or inspo it's a pixel pony game bro it's not like you're taking all my organs and selling them off
+- ask if u want to sit with me, friends buddies pals can do it anytime idm
+- safe server 1 specific location is somewhere over there on the left
