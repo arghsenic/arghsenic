@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="600" src="https://files.catbox.moe/nmbb4f.png">
+</p>
+
 </p> 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -16,3 +20,7 @@
     <p>for other info, see my rentry!</p>
   </details>
 </div>
+
+<p align="center">
+    <img width="600" src="https://files.catbox.moe/nmbb4f.png">
+</p>
