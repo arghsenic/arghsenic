@@ -11,6 +11,10 @@
 <img width="100" src="https://files.catbox.moe/haclgw.webp">
 </p>
 
+<p align="center">
+    <img width="600" src="https://files.catbox.moe/nmbb4f.png">
+</p>
+
 <div align="center">
   <details>
     <summary><b>ponytown related information</b></summary>
@@ -23,7 +27,3 @@
     <p>for other info, see my rentry!</p>
   </details>
 </div>
-
-<p align="center">
-    <img width="600" src="https://files.catbox.moe/nmbb4f.png">
-</p>
