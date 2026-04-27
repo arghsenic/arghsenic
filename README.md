@@ -19,11 +19,9 @@
   <details>
     <summary><b>ponytown related information</b></summary>
     <br>
-    <p>if i'm not answering immediately then whisper me!!! i'm likely doing something atm, i'll get back to you!</p>
-    <p>i don't care about copying/inspo! neither the ponies i make nor the game holds much value to me lol</p>
-    <p>please ask for c+h ... i would rather sit with someone i have spoken to atleast once than not at all</p>
-    <p>i'm on the first safe server and i most often sit at docks, occasionally in other areas if i get bored</p>
-    <p>don't be afraid to interact i am very nice and kind!!! don't be scared it's ok!!!</p>
-    <p>for other info, see my rentry!</p>
+    <p>safe server 1 docks. i wander off whenever i get bored</p>
+    <p>w2i at all times, if i have "no response" in my pony name you can instead sign my atabook to interact</p>
+    <p>i don't care for copying nor inspiration. this silly little pixel pony game holds no real value to me, neither do any of the ponies i make</p>
+    <p>ask if you want to sit with me, i will be moving away if you do it randomly. it's not tt/td, i'd just rather sit with someone i have interacted with even a little</p>
   </details>
 </div>
