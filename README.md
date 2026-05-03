@@ -1,2 +1,4 @@
-currently on hiatus  
-i'll be back whenevr i'm ready :P
+- c+h is okay anytime!!!! come sit with me!!!!!!!
+- i am only online when i am feeling well and don't want to kill everyone (aka almost NEVER!!!)
+- whisper 2 interact if i'm not actively running around doing things. sometimes i am offtab
+- you should sign my ata i would be SO fucking ecstatic
