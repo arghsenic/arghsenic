@@ -1,5 +1,4 @@
-- read my rentry pls it has more information about ME
-- c+h is okay anytime!!!! come sit with me!!!!!!!
-- i am only online when i am feeling well and don't want to kill everyone (aka almost NEVER!!!)
-- whisper 2 interact if i'm not actively running around doing things. sometimes i am offtab
-- you should sign my ata i would be SO fucking ecstatic
+- i often have my chat off & whispers open, so either whisper or sign my atabook to interact
+- usually offtab doing things
+- c+h is okay for everyone, i don't mind
+- read rentry for further information
