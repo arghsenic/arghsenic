@@ -1,4 +1,1 @@
-- i often have my chat off & whispers open, so either whisper or sign my atabook to interact
-- usually offtab doing things
-- c+h is okay for everyone, i don't mind
-- read rentry for further information
+everyone should interact with me or i will kill everyone
