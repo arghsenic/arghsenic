@@ -6,5 +6,6 @@
 
 - anyone can c+h at any time, i don't mind!
 - usually not offtab when i am online, but please still W2I as i sometimes have my chat bubbles turned off.
-- i am not online much as i am busy with other things throughout my day. if you know me and i know you, feel welcome to ask for my discord to keep in contact ^-^
 - if there's anything i forgot to mention just ask lol
+
+also read rentry thanks i love you bye
