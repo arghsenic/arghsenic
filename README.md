@@ -8,4 +8,4 @@
 - usually not offtab when i am online, but please still W2I as i sometimes have my chat bubbles turned off.
 - if there's anything i forgot to mention just ask lol
 
-also read rentry thanks i love you bye
+read [THIS RENTRY](https://rentry.org/wewillcommitwolfmurder) the url was too long to fit in the links on the left
