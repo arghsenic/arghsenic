@@ -10,4 +10,4 @@
 - usually not offtab when i am online, but please still W2I as i sometimes have my chat bubbles turned off.
 - if there's anything i forgot to mention just ask lol
 
-[my rentry](https://rentry.org/cotardssyndrome)
+[my rentry](https://rentry.org/impostorsyndrome)
