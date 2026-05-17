@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/R0q2WvZp/3674d486c0e943fdafd2770d011595f6.gif)
+![](https://i.postimg.cc/rmc1CtsX/14a66dd5abd79cdcc7ca0a7903c67f161df181d6.gif)
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
