@@ -4,4 +4,10 @@
   </a>
 </p> 
 
-ouguoguehgoeufhrusihriuhuwgoadwoujoirgrs
+- w2i
+- c+h is okay for anyone
+- safe server 1 docks
+- not online much
+
+rentry 4 further info :P
+
