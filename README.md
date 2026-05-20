@@ -6,7 +6,7 @@
 
 - w2i
 - c+h is okay for anyone
-- safe server 1 docks
+- safe server 1 @ docks most often, but i wander off when i get bored
 - not online much
 
 rentry 4 further info :P
