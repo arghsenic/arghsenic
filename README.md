@@ -5,5 +5,6 @@
 </p> 
 
 <p align="center">
-do not interact with me
+read rentry before interaction  
+<br> always w2i, public chat bubbles are off
 </p>
