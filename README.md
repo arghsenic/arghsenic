@@ -5,6 +5,6 @@
 </p> 
 
 <p align="center">
-read rentry before interaction  
+read strawpage before interaction  
 <br> always w2i, public chat bubbles are off
 </p>
