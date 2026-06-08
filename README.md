@@ -9,5 +9,6 @@
 
 <p align="center">
 read strawpage before interaction  
-<br> always w2i, public chat bubbles are off
+<br> w2i if unresponsive, i'll get back to you
+<br> safe server 1, docks but elsewhere occassionaly
 </p>
