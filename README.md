@@ -5,7 +5,5 @@
 </p> 
 
 <p align="center">
-going on a hiatus for the summer to improve health & to stay offline more
-<br> will be back around early-mid august, which is when summer break is over in my country
-<br> atabook has been left open, feel free to leave a message
+tiny tiny hiatus to lock in for my final exam
 </p>
