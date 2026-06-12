@@ -5,5 +5,5 @@
 </p> 
 
 <p align="center">
-tiny tiny hiatus to lock in for my final exam
+safe server 1 docks
 </p>
