@@ -6,5 +6,5 @@
 
 <p align="center">
 safe server 1 docks
-<br> or with frends :3c
+<br> or elsewhere
 </p>
