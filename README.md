@@ -4,7 +4,10 @@
   </a>
 </p> 
 
-<p align="center">
-safe server 1 docks
-<br> or elsewhere
-</p>
+<details>
+  <summary>ponytown related information</summary>
+
+  - safe server 1, mostly at docks but i wander off whenever i get bored
+  - c+h is fine for anyone, but ask first if we don't know each other
+  - my ponies have no value to me so i wouldn't give a shit about copying or inspo. i still think it's weird to do, try creating & putting effort into making one yourself and you'll feel a lot more accomplished. doesn't matter if what you make looks like ass, because with time you'll make something you're proud of all because of the work you put in over time (unsolicited life advice)
+  - whisper me if i'm not responding. i will get back to you in a bit!!! trust me!!!!!!
