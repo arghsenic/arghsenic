@@ -1,4 +1,5 @@
 <p align="center">
+    <img width="800" src="https://files.catbox.moe/dwlbue.gif">
     <img width="600" src="https://files.catbox.moe/950g94.png">
 </p>
 
@@ -26,4 +27,5 @@ no response in name: my chat is entirely off. sign atabook if you have something
 
 <p align="center">
     <img width="600" src="https://files.catbox.moe/950g94.png">
+    <img width="800" src="https://i.postimg.cc/vTs2dXrg/ezgif-5efba2bc70730b27.gif">
 </p>
