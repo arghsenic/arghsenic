@@ -1,31 +1,9 @@
-<p align="center">
-    <img width="800" src="https://files.catbox.moe/dwlbue.gif">
-    <img width="600" src="https://files.catbox.moe/950g94.png">
-</p>
+hi i'm going on vacation this saturday (11th of july) & then i'm gone for 3 weeks. i'll be at the beach!!!!! it's gonna be awesum. this ofc means i will be offline and no one's gonna see me until i get back. Not like it matters because i barely talk to anybody. Shrugs.
 
+all of my links are Gone because i'm unhappy with. everything. that i've made. it was all half-assed anyways and didn't reflect me properly. i'll remake everything when i come back from vacation trust me it'll all be REALLY COOL.
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=b51a00&bar_color_cover=false">
-  </a>
-</p> 
-<div align="center">
-  <details>
-      <summary> <td>$${\color{#b51a00}\verb|❛     ⸺     PONYTOWN RELATED INFORMATION 𓈒|}$$</td> </summary>
-      ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘ <br>
-safe server 1, most often at docks. i wander off whenever i get bored <br>
-<br>  
-i don't care about copying/inspo, my ponies hold no value to me <br>
-<br>  
-c+h is fine but ask me first if we don't know each other, otherwise i'll move away <br>
-<br>  
-w2i in name: i'll only respond to whispers as i have chat bubbles turned off <br>
-<br>  
-no response in name: my chat is entirely off. sign atabook if you have something to say <br>
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘ <br>
-    </details>
+....& i've decided to take a mini break before my vacation off of ponytown, just so i can focus on myself & bettering my health. i like to stay sane and be mentally well, can U believe a ponytown player is saying that
 
-<p align="center">
-    <img width="600" src="https://files.catbox.moe/950g94.png">
-    <img width="800" src="https://i.postimg.cc/vTs2dXrg/ezgif-5efba2bc70730b27.gif">
-</p>
+atabook has been left up because I WANT MORE PEOPLE TO SIGN IT!!!!!!!!!!! PLEASE!!!! I'M ON MY KNEES!!!!!!!!!!!!!!
+
+Alright that's it
