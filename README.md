@@ -19,7 +19,7 @@
 <summary> $${\color{#A20518}\verb|PONYTOWN RELATED INFORMATION|}$$ </summary>
 <br>
   
-- safe server 1 docks most often, i wander off to fandom areas whenever i get bored <br>
+- safe server 1 docks most often, i wander off whenever i get bored <br>
 - offtab pretty often when online, w2i to catch my attention! <br>
 - c+h is okay at all times, idm ^_^ <br>
 - sign the ata or i'll start crying in real life
