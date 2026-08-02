@@ -3,7 +3,7 @@
 <div align="center">
 <table>
 <tbody>
-<td align="center">
+<td align="center" width="600">
 <img width="1000" height="0"><br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arghsenic&style=flat-square&color=7E0411&label=DO+YOU+WANT+TO+BE+FREE,+OR+DO+YOU+WANT+TO+BE+RIGHT?   ">
