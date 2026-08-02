@@ -1,2 +1,7 @@
-i'm going on vacation on the 11th of july for 3 weeks which means i won't be on ponytown  
-raise your hand if you give a fuck
+<p align="left">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=b51a00&bar_color_cover=false">
+  </a>
+</p>
+
+readme + links are all a wip... pls be p atient.....
