@@ -14,7 +14,7 @@
   </a>
 <p/>
 
-<td width="400"><p align="left">
+<td width="350"><p align="left">
 <details open>
 <summary> $${\color{#A20518}\verb|PONYTOWN RELATED INFORMATION|}$$ </summary>
 <br>
