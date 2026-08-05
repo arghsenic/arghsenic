@@ -10,7 +10,7 @@
 <p></p>
     <img width="100" src="https://i.postimg.cc/76SsMXMc/4f96d377.gif">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=A20518&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=97957C&bar_color_cover=false">
   </a>
 <p/>
 
