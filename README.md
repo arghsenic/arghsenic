@@ -7,7 +7,7 @@
 <td align="center" width="600" colspan="2">
 <img width="1000" height="0"><br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arghsenic&style=flat-square&color=241F1C&label=　+　+　A+CONCEPT+THAT+YOU+FEAR+BUT+CANNOT+ESCAPE,　+I+SIMPLY+AM.　+　+　">
+  <img src="https://komarev.com/ghpvc/?username=arghsenic&style=flat-square&color=241F1C&label=　+　+　A+CONCEPT+THAT+YOU+FEAR,+BUT+YOU+CANNOT+ESCAPE.　+I+SIMPLY...+AM.　+　+　">
 <p></p>
     <img width="100" src="https://i.postimg.cc/pdMGpq2Z/3ea32912.gif">
   <a href="https://github.com/kittinan/spotify-github-profile">
