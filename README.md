@@ -1,6 +1,13 @@
 <p align="center">
   <img width="500" src="https://i.postimg.cc/tJzZNRPD/c933905eda4118b228bd4b767ed7b79932c795fc.png">
 </p>
+
+<p align="center">
+<a href="https://fluffle.cc/huntingseason">FLUFFLE</a> 　  　　
+<a href="https://artsenic.straw.page">DRAWING REQUESTS</a> 　  　　
+<a href="https://arghsenic.atabook.org">ATABOOK</a> 　
+</p>
+
 <div align="center">
 <table>
 <tbody>
@@ -27,7 +34,6 @@ MOST OFTEN AT DOCKS, OTHERWISE AT FANDOM AREAS. C+H IS FINE ALWAYS. W2I IF I'M U
 </tbody>
 </table>
 </div>
-
 <p align="center">
   <img width="500" src="https://i.postimg.cc/NGx5VM9j/4206eeec0e00d7dbbe3d818f1cd9bb6a320b1f21.png">
 </p>
