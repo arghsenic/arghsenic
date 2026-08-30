@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://fluffle.cc/huntingseason">FLUFFLE</a> 　  　　
-<a href="https://artsenic.straw.page">DRAWING REQUESTS</a> 　  　　
+<a href="https://fluffle.cc/huntingseason">FLUFFLE</a> 　  　　  　　
 <a href="https://arghsenic.atabook.org">ATABOOK</a> 　
 </p>
 
