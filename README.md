@@ -1,21 +1,12 @@
-<p align="center">
-  <img width="500" src="https://i.postimg.cc/tJzZNRPD/c933905eda4118b228bd4b767ed7b79932c795fc.png">
-</p>
-
-<p align="center">
-<a href="https://fluffle.cc/huntingseason">FLUFFLE</a> 　  　　  　　
-<a href="https://arghsenic.atabook.org">ATABOOK</a> 　
-</p>
-
 <div align="center">
 <table>
 <tbody>
 <td align="center" width="600" colspan="2">
 <img width="1000" height="0"><br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arghsenic&style=flat-square&color=241F1C&label=　+　+　A+CONCEPT+THAT+YOU+FEAR,+BUT+YOU+CANNOT+ESCAPE.　+I+SIMPLY...+AM.　+　+　">
+  <img src="https://komarev.com/ghpvc/?username=arghsenic&style=flat-square&color=241F1C&label=⠀⠀amount+of+coins+stolen⠀⠀">
 <p></p>
-    <img width="100" src="https://i.postimg.cc/pdMGpq2Z/3ea32912.gif">
+    <img width="100" src="https://i.postimg.cc/d3HcZTdH/586531b7.gif">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=6A0903&bar_color_cover=false">
   </a>
@@ -24,7 +15,7 @@
 <td width="350"><p align="left">
 <details open>
 <summary> $${\color{#6A0903}\verb|PONYTOWN RELATED INFORMATION|}$$ </summary>
-MOST OFTEN AT DOCKS, OTHERWISE AT FANDOM AREAS. C+H IS FINE ALWAYS. W2I IF I'M UNRESPONSIVE. MY PONIES HOLD NO VALUE TO ME, SO I DON'T CARE ABOUT COPYING/INSPO. I ACTIVELY USE THE PONYTOWN STATUS THINGIES. SEE FLUFFLE FOR GENERAL INFO, OKAY? ~
+most often at docks, otherwise at fandom areas. C+H is fine always. W2I if i'm unresponsive. my ponies hold no value to me, so i don't care about copying/inspo. i actively use the ponytown status indicators. fluffle for general info.
 </details>
 <p/></td>
   
@@ -33,6 +24,4 @@ MOST OFTEN AT DOCKS, OTHERWISE AT FANDOM AREAS. C+H IS FINE ALWAYS. W2I IF I'M U
 </tbody>
 </table>
 </div>
-<p align="center">
-  <img width="500" src="https://i.postimg.cc/NGx5VM9j/4206eeec0e00d7dbbe3d818f1cd9bb6a320b1f21.png">
-</p>
+
