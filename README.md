@@ -45,10 +45,6 @@ $${\color{#BFFFDC}\verb|idc abt copying or inspo|}$$
 <a href="https://dk.pinterest.com/pin/1081919510499628801/">readme</a>
 </p>
 
-<br>
-
-</div>
-
 <br clear="left">
 
 </div>
