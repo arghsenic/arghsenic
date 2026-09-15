@@ -3,7 +3,7 @@
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=BAC09E&bar_color_cover=false">
   </a> <br>
-$${\color{#872512}\verb|see fluffle for information.|}$$ <br>
+$${\color{#872512}\verb|SEE FLUFFLE FOR INFORMATION.|}$$ <br>
 </p>
 <p align="center">
     <img src="https://i.postimg.cc/qqSGJ5B1/3b5303ff7b6929bc5d3eefa3939e97ca5abfab16.jpg" width="99">
