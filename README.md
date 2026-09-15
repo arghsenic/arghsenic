@@ -1,52 +1,14 @@
-<div align="center">
-
-<div style="display: inline-block; text-align: left;">
-
-<img align="left" width="300" src="https://i.postimg.cc/NfZjCXB4/4csmall.png">
-
-<div align="center">
-
-<br>
-
-<br>
-
-  <img src="https://komarev.com/ghpvc/?username=arghsenic&style=plastic&color=3F5795&label=⠀⠀(´｡•+◡+•｡`)+♡⠀⠀">
-
-<br>
-
-<br>
-
-<p>
-$${\color{#362D67}\verb|docks or fandom areas|}$$ <br>
-$${\color{#3F5795}\verb|c+h is always ok!|}$$ <br>
-$${\color{#5987A6}\verb|w2i if unresponsive|}$$ <br>
-$${\color{#BFFFDC}\verb|idc abt copying or inspo|}$$
-
-</p>
-
-
-<div align="center">
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arghsenic&style=plastic&color=872512&label=+⠀+⠀+⠀+⠀+ᡕᠵデᡁ╾━+⠀+⠀+⠀+⠀+"> <br>
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=5987A6&bar_color_cover=false">
-  </a>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=BAC09E&bar_color_cover=false">
+  </a> <br>
+$${\color{#872512}\verb|see fluffle for information.|}$$ <br>
 </p>
-
-<br>
-
-<br>
-
-<br>
-
-<p>art credits!! ヾ( ˃ᴗ˂ )◞ • *✰</p>
-<p>
-<a href="https://x.com/nasuji11/status/2082518719612211202/photo/1">pfp</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dk.pinterest.com/pin/1081919510499628801/">readme</a>
+<p align="center">
+    <img src="https://i.postimg.cc/qqSGJ5B1/3b5303ff7b6929bc5d3eefa3939e97ca5abfab16.jpg" width="99">
+    <img src="https://i.postimg.cc/63KgwTbf/bc9c9eefc2b7ef53e4de7055c6cda3b79fd3a16e.png" width="99">
+    <img src="https://i.postimg.cc/MGgZY0T7/669772310dc92bfd0ff53df830364def47438c75.png" width="99">
+    <img src="https://i.postimg.cc/8c9bp0Pp/004b45beb048832333e84cb1a260d9eced4ab6cb.png" width="99">
+    <img src="https://i.postimg.cc/vTkvYNH8/45250e08bea349e865c6ef147648e91a3154e860.gif" width="99">
 </p>
-
-<br clear="left">
-
-</div>
-
-</div>
