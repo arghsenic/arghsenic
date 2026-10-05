@@ -10,7 +10,7 @@ general
 - whisper if i am unresponsive. or just sign ata idfk
 - usually at: docks, fandom areas (mcyt, roblox, vocaloid/pjsk, others). i also wander off sometimes, find me
 - i don't have sleeping on for inacitvity, if i'm asleep i am busy & won't be very active
-- cuddling is encouraged always, don't expect a conversation though as i usually prefer sitting in silence
+- cuddling is encouraged always, ESPECIALLY if i have c+h in my name. don't expect a conversation though as i usually prefer sitting in silence
 - i don't care about copying/inspiration, my ponies hold no value to me, do as you will
 
 status meanings
