@@ -16,7 +16,7 @@
 <summary>$${\color{#E7DE69}\verb|⋆˚✿˖° ponytown related info|}$$</summary>
 
 general
-- whisper if unresponse or sign ata
+- whisper if unresponsive or sign ata
 - safe server 1. areas: docks or fandoms
 - i don't have sleeping on for inacitvity, if i'm asleep i am busy & won't be very active
 - cuddling encouraged, especially if it's in pony name! don't expect interaction. i am quiet
