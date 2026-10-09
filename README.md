@@ -11,7 +11,7 @@
 
 GENERAL────────────────────────────
 - whisper if unresponsive or sign ata
-- safe server 1. areas: docks or fandom areas (mcyt hill & typology/enneagram area mostly)
+- safe server 1. areas: docks, parties (fsr, fts, etc) or fandom areas (mcyt hill & typology/enneagram area mostly)
 - i don't have sleeping on for inacitvity, if i'm asleep i am busy & won't be very active
 - cuddling encouraged, especially if it's in pony name! don't expect interaction. i am quiet
 - i don't care about copying/inspiration, my ponies hold no value to me, do as you will
