@@ -21,7 +21,7 @@ STATUS MEANINGS─────────────────────�
 - online 🟢: active and on tab
 - idle 🌙: offtab doing fuck all
 - busy ⛔️: IW(E)C or DNI, see pony name for clarification
-- looking for chat: talk to me or i die in real life slash serious
+- looking for chat 💬: talk to me or i die in real life slash serious
 </details> <br> <div align="center"> <a href="https://www.tumblr.com/mobrinono/830606732491456512/got-to-try-the-game-and-oooh-drifter-definitely?source=share">ART CREDITS</a> </div> <br>
 
 </td> </tr> </table>
