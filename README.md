@@ -11,18 +11,18 @@
 
 <details> <summary>$${\color{#AA2519}\verb|ponytown related info|}$$</summary>
 
-GENERAL────────────────────────────
+general────────────────────────────
 - whisper if unresponsive or sign ata
 - safe server 1. areas: docks, parties (fsr, fts, etc), or fandom areas
 - i don't have sleeping on for inacitvity, if i'm asleep i am busy with other things & won't be very active
 - cuddling encouraged, especially if it's in pony name! don't expect much interaction, i'm quiet
 - i don't care about copying/inspiration, my ponies hold no value to me, do as you will
 
-STATUS MEANINGS───────────────────────
-- online 🟢: active and on tab
-- idle 🌙: offtab doing fuck all
-- busy ⛔️: IW(E)C or DNI, see pony name for clarification
-- looking for chat 💬: talk to me or i die in real life slash serious
+status meanings───────────────────────
+- online 🟢: ⠀ active and on tab
+- idle 🌙: ⠀ offtab doing fuck all
+- busy ⛔️: ⠀ IW(E)C or DNI, see pony name for clarification
+- looking for chat 💬: ⠀ talk to me or i die in real life slash serious
 </details> <br> <div align="center"> <a href="https://x.com/h4haruu228">art credits</a> </div> <br>
 
 </td> </tr> </table>
