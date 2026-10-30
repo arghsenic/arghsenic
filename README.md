@@ -1,14 +1,21 @@
 <table align="center"> <tr> <td width="600">
 
 <div align="center">
+<img src="https://i.postimg.cc/fLWdBj9y/image-removebg-preview-2.png" width="220px">
+
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=471109&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31juwpv3sapxzgmufghrara3klv4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=CFC7C5&bar_color_cover=false">
   </a>
 </div>
 
 <br>
 
-<details> <summary>$${\color{#6C2A1A}\verb|ponytown related info|}$$</summary>
+$${\color{#AE9184}\verb|pfp + readme art by @orcaynn on twitter|}$$
+
+<br>
+
+
+<details> <summary>$${\color{#6B5546}\verb|ponytown related info|}$$</summary>
 
 general ────────────────────────────
 - whisper if unresponsive or sign ata
