@@ -1,7 +1,7 @@
 <table align="center"> <tr> <td width="600">
 
 <div align="right">
-$${\color{#AE9184}\verb|pfp + readme art by @orcaynn on twitter|}$$
+$${\color{#AE9184}\verb|art & oc by @orcaynn on twitter|}$$
 </div>
 
 
