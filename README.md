@@ -1,5 +1,10 @@
 <table align="center"> <tr> <td width="600">
 
+<div align="right">
+$${\color{#AE9184}\verb|pfp + readme art by @orcaynn on twitter|}$$
+</div>
+
+
 <div align="center">
 <img src="https://i.postimg.cc/fLWdBj9y/image-removebg-preview-2.png" width="220px">
 
@@ -8,9 +13,6 @@
   </a>
 </div>
 
-<br>
-
-$${\color{#AE9184}\verb|pfp + readme art by @orcaynn on twitter|}$$
 
 <br>
 
