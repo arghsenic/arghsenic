@@ -1,6 +1,6 @@
 <table align="center"> <tr> <td width="550">
 
-  sign my atabook. please and thank you
+  sign my atabook or everyone and everything dies
 <img src="https://i.postimg.cc/DyvhcNwN/image.png" alt="idiot girl hits herself in the face">
 
   <a href="https://github.com/kittinan/spotify-github-profile">
