@@ -1,7 +1,7 @@
 <table align="center"> <tr> <td width="660">
 
 <p align="left">
-  <img src="https://i.postimg.cc/W15CWBpB/image-removebg-preview-10.png" width="300" align="right">
+  <img src="https://i.postimg.cc/zX0x8nmj/image-removebg-preview-11.png" width="300" align="right">
   $\color{#bdbdbd}{\textsf{I SEE YOU STARING IN YOUR MIRROR}}$ <br>
   $\color{#bdbdbd}{\textsf{WHAT WILL IT TAKE FOR YOU TO SEE?}}$
   <hr>
